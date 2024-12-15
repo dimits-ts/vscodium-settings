@@ -1,0 +1,48 @@
+disabled: []
+enabled:
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: foxundermoon.shell-format
+    uuid: 5fb19573-2183-4cf2-b53d-0fb869dae7ae
+  - id: Gruntfuggly.todo-tree
+    uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
+  - id: mads-hartmann.bash-ide-vscode
+    uuid: b1b0f283-8246-4e90-832e-a6c409d378d1
+  - id: ms-pyright.pyright
+    uuid: 593fe6a5-513e-4cb3-abfb-5b9f5fe39802
+  - id: ms-python.black-formatter
+    uuid: 859e640c-c157-47da-8699-9080b81c8371
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-keymap
+    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-toolsai.vscode-jupyter-cell-tags
+    uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
+  - id: ms-toolsai.vscode-jupyter-slideshow
+    uuid: e153ca70-b543-4865-b4c5-b31d34185948
+  - id: njpwerner.autodocstring
+    uuid: 2d6fea35-f68e-461d-9b7b-5cd05be99451
+  - id: njqdev.vscode-python-typehint
+    uuid: a7b7591e-f2b8-48f7-b8ea-6d62a0dd38c8
+  - id: RobbOwen.synthwave-vscode
+    uuid: e5fd2b56-1637-4d4f-8252-6c9d416f9a28
+  - id: rodolphebarbanneau.python-docstring-highlighter
+    uuid: da322c09-e2b8-4354-9f0c-06d0a7a8aa77
+  - id: sdras.night-owl
+    uuid: e58f546c-babc-455f-a265-ba40dbd140d4
+  - id: Technicolor-creamsicle.deepdark-material
+    uuid: cc37583f-1cda-4c88-8f93-7c194d2a3fa7
+  - id: tonybaloney.vscode-pets
+    uuid: 9b1d6ed6-92f2-4fad-863e-18a9d4c22204
+  - id: valentjn.vscode-ltex
+    uuid: 840e9c85-0e99-42ce-aa62-81088245e699
+  - id: wayou.vscode-todo-highlight
+    uuid: 97a08c5f-6667-4242-a5c5-045dfb6bd4b9
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

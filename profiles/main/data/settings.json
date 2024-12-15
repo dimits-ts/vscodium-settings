@@ -1,0 +1,9 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.inheritEnv": false,
+    // ===== Settings Sunc =====
+    // commit message used when initializing a new profile, optional (set to `profile({{profile}}): init -- {{now|date:iso}}` by default)
+    "syncSettings.gitInitMessage": "profile({{profile}}): init -- {{now|date:iso}}",
+    // commit message used when updating a profile, optional (set to `profile({{profile}}): update -- {{now|date:iso}}` by default)
+    "syncSettings.gitUpdateMessage": "profile({{profile}}): update -- {{now|date:iso}}"
+}
